@@ -1,6 +1,6 @@
-# Seftudy
+# Study_in_univ
 
-Develop & Design Study
+Study in univ.
 
 ## Design
 
